@@ -1,0 +1,24 @@
+
+.header{
+    margin-bottom: 5px;
+    background-color:lightgray
+}
+
+#logo{
+    float: left;
+    padding-top: 2px;
+    padding-bottom: 2px
+}
+#Portfolio_header{
+    padding-top: 25%;
+    padding-bottom: 25%;
+}
+
+img{
+    margin-bottom: 20px;
+    margin-right: 10px;
+}
+
+footer{
+    margin-top: 50px;
+}
